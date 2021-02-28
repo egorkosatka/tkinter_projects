@@ -4,6 +4,7 @@ import tkinter.messagebox
 
 
 master = tkinter.Tk()       # создаю окно
+master.title('star')
 canvas = tkinter.Canvas(master, bg='white', height=300, width=300)  # создаю холст
 canvas.pack()        # пакую всё это
 radius = 100        # радиус
