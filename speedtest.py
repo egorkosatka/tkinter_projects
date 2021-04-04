@@ -1,3 +1,5 @@
+# pip install speedtest-cli
+
 import tkinter
 import time
 import speedtest
